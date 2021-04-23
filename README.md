@@ -1,16 +1,43 @@
-### Hi there 👋
+### Hi! 👋
 
-<!--
-**sanrinconr/sanrinconr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full stack developer working professionally with:
+- React
+- Redux
+- Node.js
+- Express.js
+- GraphQL
+- HTML
+- Sass
+- Bootstrap
+- Algorithms ( and complexity analysis)
+- Data structures (linked lists, graphs, tablas hash)
+- Sequelize
+- PostgreSQL
+- Git
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What you can expect in my profile of github?
+
+#### Projects ⚡
+ - You can see my portfolio [here](https://github.com/sanrinconr/Portfolio)
+ - Find and see description of all countries in the world [here](https://github.com/sanrinconr/Countries-app)!
+
+#### Mini projects about specify skill 🔭
+ - a demo about graphql [here](https://github.com/sanrinconr/demo-graphql)
+ - a demo about mongodb [here](https://github.com/sanrinconr/demo-mongodb)
+ - how to deploy to github pages?, [this is the repo](https://github.com/sanrinconr/Demo-github-pages)
+ 
+ #### Training algorithms skills 🌱
+ - Continuously i solve new problems of Leet Code, in [this repo](https://github.com/sanrinconr/LeetCode-exercises) i have all my solutions
+ - A few time, in the university i learning about data structures in c++!, you can see multiple algorithms [here](https://github.com/sanrinconr/algoritmos_busqueda)
+ 
+ ### Curious in cryptography 😄
+ I'm not a master in cryptography but I see the diffie-helman algorithm and this generates me curiosity.
+ Then, i implement it!, you can see this [here](https://github.com/sanrinconr/Diffie-Helman)
+
+## Okay, I see a lot of code, but where can i see something more visual?
+Of course!
+- You can see my project about countries in: [paises-sanrinconr.vercel.app](https://paises-sanrinconr.vercel.app/)
+- You can see my portfolio showing my abilities in: [portfolio-sanrinconr.vercel.app](https://portfolio-sanrinconr.vercel.app)
+
+
