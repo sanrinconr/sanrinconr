@@ -40,4 +40,9 @@ Of course!
 - You can see my project about countries in: [paises-sanrinconr.vercel.app](https://paises-sanrinconr.vercel.app/)
 - You can see my portfolio showing my abilities in: [portfolio-sanrinconr.vercel.app](https://portfolio-sanrinconr.vercel.app)
 
+## Wanna know more about me?
+- Can find me in linkedIn [https://www.linkedin.com/in/sanrinconr/](here)!
+- Write to my email! santiagorincon2001@gmail.com
+- If you prefer, write me to whatsapp +57 3057874615 or more easy, with this link [https://wa.link/ytd07e](https://wa.link/ytd07e)
+
 
