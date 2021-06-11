@@ -38,9 +38,9 @@ I'm a full stack developer working professionally with:
 
 ## Okay, I see a lot of code, but where can i see something more visual?
 Of course!
-- You can see my project about countries in: [paises-sanrinconr.vercel.app](https://paises-sanrinconr.vercel.app/)
-- You can see my portfolio showing my abilities in: [portfolio-sanrinconr.vercel.app](https://portfolio-sanrinconr.vercel.app)
-- See my proyect of phrases in firebase, phrases?, yes, share a phrase with the world!, you can see here [frases-sanrinconr.firebaseapp.com](https://frases-sanrinconr.firebaseapp.com/)
+- You can see my project about countries in: [paises.santiagorincon.site](https://paises.santiagorincon.site/)
+- You can see my portfolio showing my abilities in: [santiagorincon.site](https://santiagorincon.site/)
+- See my proyect of phrases in firebase, phrases?, yes, share a phrase with the world!, you can see here [frases.santiagorincon.site](https://frases.santiagorincon.site/)
 ## Wanna know more about me?
 - Can find me in linkedIn [linkedin.com/in/sanrinconr/](https://www.linkedin.com/in/sanrinconr/)!
 - Write to my email! santiagorincon2001@gmail.com
